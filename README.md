@@ -11,7 +11,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 >
 > **Security Risks:**
 > - **System Access**: Full access to files, network, and system resources
-> - **Code Execution**: Can run any command on your machinef
+> - **Code Execution**: Can run any command on your machine
 > - **Prompt Injection**: Malicious prompts could trigger unintended server actions
 > - **Data Exposure**: Sensitive data may be accessed or leaked
 >
@@ -503,6 +503,16 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 <br />
 
 # Tools & Utilities
+
+### 🛡️ <a name="security"></a>Security
+
+- <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CDSP](https://github.com/sanyambassi/ciphertrust-manager-mcp-server) - MCP server for Thales CipherTrust Manager integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants.
+- <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
+- <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
+- <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://cdn.simpleicons.org/solana/9945FF" height="14"/> [SicariusGuard](https://github.com/Chronolapse411/sicarius-guard) - 7-layer Solana token safety oracle for AI agents. Byte-level SPL inspection, honeypot detection, holder concentration analysis, Birdeye market intelligence, and Helius wallet reputation scoring.
+
+<br />
 
 > Tools that help manage, configure, and work with MCP servers. These utilities simplify the installation process and improve the user experience.
 
